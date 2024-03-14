@@ -21,7 +21,7 @@ Nectars, Imbue Items, and T1 elemental items no longer require their requirement
 Gather skills are now 5sp, with the Survivalists ones being 3sp <br />
 
 
-Survivalist has been buffed:  <br />
+### Survivalist:  <br />
 Mastery increases damage by 30%,  <br />
 Power Shot is now Stab+Fire and Pierces,  <br />
 Disabling Shot damage up,  <br />
@@ -35,22 +35,25 @@ Act First replaced by Boost Up (temp?) <br />
 Various TP reductions <br />
 
 
-Ronin: <br />
+### Ronin: 
+Changed the duration of stances: Upper 3T, Clear 4T, Drawing 5T (and increased evasion) <br />
+Breath, Ripper Blast (Horse Slash), Razor Dodge, and Beheading Cut now function like Slantwise Cut<br />
+The 3 elemental skills can be used in any stance <br />
 Charging Stab is now EO2Us Ground Strike <br />
 Buffed Arm Strike <br />
-Skills that require stances to be used, aside from the 3 major ones, can be used in any stance <br />
-Changed the duration of stances: Upper 3T, Clear 4T, Drawing 5T (and increased evasion) <br />
 
 
-Medic: <br />
+### Medic: <br />
 Buffed their two damage skills, <br />
 Regenerate is more expensive and targets a row <br />
 Revive is cheaper <br />
+Heal also removes ailments and binds <br />
+Immunize: 66% Damage taken at lv10 <br />
 
 
-Landy: <br />
+### Landy: <br />
 All skills can be used with a Sword or Axe <br />
-Chasers were replaced by Phys Chaser, Elem Chaser, Hex Chaser <br />
+Chasers were replaced by Phys Chaser and Elem Chaser <br />
 Head Bash replaced by Attack Kill - deal bash damage and debuff phys attack (same values as Hexers) <br />
 Stunning Bash replaced by Bloodbath - bash damage and drain HP <br />
 Boomerang Axe has same mods as vanilla Raging Edge <br />
@@ -65,7 +68,7 @@ Recover now ally target <br />
 Various TP reductions <br />
 
 
-Protector: <br />
+### Protector: <br />
 Cure renamed to Clemency, targets a row <br />
 Fortify merged into Provoke <br />
 Fortify now passively reduces phys damage to the users row (untested) <br />
